@@ -1,0 +1,3 @@
+version=1.2
+signature=6YLEEJNT4XKP4J6ZDZWMEXO6Z3J3WIDO7EXQCPX7YGYHJSAU3T4GM4H3NZDBFDUVGEXL7O7LCHAQJPGBHLTXIDSUSY7DRTGBDIOHSSQ
+notes=Nouvelle version de MisaMisa : voir les nouveaut├®s apr├¿s la mise ├á jour.
